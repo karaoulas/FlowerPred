@@ -34,6 +34,12 @@
 
 - UI: Bootstrap 5
 - Μοντέλο: Hugging Face Transformers
+## Screenshots
+
+Παρακάτω μπορείτε να δείτε στιγμιότυπα της εφαρμογής:
+
+![Screenshot 1](Screenshot%202025-06-06%20192221.png)
+![Screenshot 2](Screenshot%202025-06-06%20192315.png)
 
 ---
 Για απορίες ή βελτιώσεις, επικοινωνήστε με τον δημιουργό της εφαρμογής.
